@@ -108,10 +108,9 @@ src/
 
 ## 🖼️ Screenshots
 
-<!-- Add screenshots here -->
-![Dashboard](screenshots/admin-dashboard.png)
-![Visitor Register](screenshots/visitor-register.png)
-![Gate Pass](screenshots/gatepass-qr.png)
+![Admin Dashboard](admin-dashboard.png)
+![Visitor Register](visitor-register.png)
+![Gate Pass](gatepass-qr.png)
 
 ## 🚀 Deployment
 
